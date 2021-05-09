@@ -14,7 +14,7 @@
     "eslint-config-prettier": "^4.1.0",
     "less": "^3.9.0",
     "less-loader": "^4.1.0",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.21",
     "mint-ui": "^2.2.13",
     "moment": "^2.24.0",
     "muse-ui": "^3.0.2",
